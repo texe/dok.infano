@@ -28,5 +28,14 @@ W dużym uproszczeniu aplikacja pozwala prowadzić bazę danych osób uczęszcza
 >
 > (Należność = 400 zł + 4 x 40 zł za zajęcia z języka angielskiego)
 
+# Wymagania
+
+Program do działania potrzebuje komputera z dowolnym systemem operacyjnym, dostępu do internetu i aktualnie wspieranej przeglądarki. Aplikacja działa poprawnie z przeglądarkami:
+
+- [Firefox](https://firefox.pl)
+- [Chrome](https://www.google.com/intl/pl_pl/chrome/)
+- [Edge](https://www.microsoft.com/pl-pl/edge)
+
+!> Uwaga! Przeglądarka powinna mieć włączoną obsługę Java Script (zwykle ta obsługa jest włączona i nie wymaga to żadnego działania użytkownika).
 
 
