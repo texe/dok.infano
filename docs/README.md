@@ -1,81 +1,30 @@
 # Start
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla  bla bla bla bla bla bla bla bla bla 
+Zapraszamy do zapoznania się dokumentacją systemu rozliczeń czesnego Infano. 
 
-bla bla bla bla bla bla bla bla bla 
+## O aplikacji
 
-## Wymagania
+Infano to program do rozliczeń czesnego, który znacznie przyspiesza obsługę dowolnej placówki edukacyjnej. Aplikacja może znaleźć zastosowanie przede wszystkim w placówkach typu:
 
-To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. v
+* przedszkola
 
+* szkoły
 
+* szkoły językowe
 
+* Miejskie/Gminne Ośrodki Kultury
 
-To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. 
-To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. 
+  
 
+Dzięki elastyczności aplikacji program można wykorzystać w dowolych placówkach, które borykają się z problemem rozliczania abonamentów miesięcznych lub karnetów "za obecność". Dzięki temu aplikacja może zostać użyta m.in. w:
 
-
-
-
-To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. v
-
-
-
-
-To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. 
-To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. 
+- siłowniach
+- fitness klubach
+- innych placówkach o charakterze sportowo-rozrywkowym
 
 
 
+W dużym uproszczeniu aplikacja pozwala prowadzić bazę danych osób uczęszczających na dane zajęcia i prawidłowo rozliczać ponoszone przez nich opłaty. Opłaty te mogą być naliczane w systemie miesięcznym lub za uczestictwo w zajęciach. Nic nie stoi na przeszkodzie aby łączyć oba systemy opłat, np.:
 
-To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. v
-
-
-
-
-To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. 
-To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. To jest rodział wymagań. 
-
-
-### PodWymagania
-
-To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. To są podwymagania. 
-
-
-
-
-## Praca z programem
-
-To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. 
-
-
-
-To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z lipa programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. 
-
-
-
-
-
-
-
-
-To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. 
-
-
-
-
-To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. 
-
-
-
-
----
-
-To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. 
-
-
-
-To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. To jest praca z programem. 
-
-
+?> Należność = stała kwota abonamentu + 4 x obecność na zajęciach dodatkowych
+(Należność = 400 zł + 4 x 40 zł za zajęcia z języka angielskiego)
 
