@@ -35,10 +35,3 @@ W przypadku, gdy zapomnimy hasła, można je odzyskać pod adresem [https://app.
 
 Po kliknięciu w link odzyskiwania hasła, należy podać adres e-mail konta. Na ten adres zostanie wysłany link, który umożliwi ustalenie nowego hasła. Nie jest mozliwe odzyskanie zapomnianego hasła. Zapomniane hasło można jedynie zmienić na nowe.
 
-
-
-# Pierwsze kroki
-
-## Uzupełnienie profilu
-
-Po poprawnym zalogowaniu się do aplikacji należy uzupełnić profil firmy. Można tego dokonać klikając w prawym górnym rogu na nazwie użytkownika i wybierając pozycję "Moja firma".
