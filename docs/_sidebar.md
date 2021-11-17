@@ -1,7 +1,7 @@
 - Wstęp
   - [Opis programu](/#start)
 - Instrukcja obsługi
-  - [Rejestracja](files/#rejestracja)
+  - [Tworzenie konta](files/#tworzenie-konta)
 <!-- - [Changelog](changelog.md) -->
   
 
