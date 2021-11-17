@@ -28,10 +28,9 @@ W dużym uproszczeniu aplikacja pozwala prowadzić bazę danych osób uczęszcza
 
 Program do działania potrzebuje komputera z dowolnym systemem operacyjnym, dostępu do internetu i aktualnie wspieranej przeglądarki. Aplikacja działa poprawnie z przeglądarkami:
 
-- [Firefox](https://firefox.pl)
+- [Firefox](https://www.mozilla.org/pl/firefox/products/)
 - [Chrome](https://www.google.com/intl/pl_pl/chrome/)
 - [Edge](https://www.microsoft.com/pl-pl/edge)
 
 !> Uwaga! Przeglądarka powinna mieć włączoną obsługę Java Script (zwykle ta obsługa jest włączona i nie wymaga to żadnego działania użytkownika).
-
 
