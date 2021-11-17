@@ -1,7 +1,7 @@
 - Wstęp
   - [Opis programu](/#start)
 - Instrukcja obsługi
-  - [Praca z programem](files/)
+  - [Rejestracja](files/#rejestracja)
 <!-- - [Changelog](changelog.md) -->
   
 
