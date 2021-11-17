@@ -5,14 +5,10 @@ Zapraszamy do zapoznania się dokumentacją systemu rozliczeń czesnego Infano.
 
 Infano to program do rozliczeń czesnego, który znacznie przyspiesza obsługę dowolnej placówki edukacyjnej. Aplikacja może znaleźć zastosowanie przede wszystkim w placówkach typu:
 
-* przedszkola
-
-* szkoły
-
-* szkoły językowe
-
-* Miejskie/Gminne Ośrodki Kultury
-
+- przedszkola
+- szkoły
+- szkoły językowe
+- Miejskie/Gminne Ośrodki Kultury
   
 
 Dzięki elastyczności aplikacji program można wykorzystać w dowolych placówkach, które borykają się z problemem rozliczania abonamentów miesięcznych lub karnetów "za obecność". Dzięki temu aplikacja może zostać użyta m.in. w:
