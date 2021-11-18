@@ -1,8 +1,8 @@
-<h1 id="cover-heading">
-  Oficjalna dokumentacja Infano
-</h1>
 
->  Strona zawiera instrukcję obsługi aplikacji INFANO
+![logo-Infano](/assets/img/logo-infano.png)
+<h1 style="font-size: 40px; font-weight: 600;" id="cover-heading">Instrukcja użytkownika</h1>
+
+  <!-- Strona zawiera instrukcję obsługi aplikacji INFANO -->
 
 
 <!-- TODO: Update to match your project's benefits/features. Git emojis work great here. -->
