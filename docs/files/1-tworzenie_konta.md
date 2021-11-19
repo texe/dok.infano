@@ -13,7 +13,11 @@ Rejestracji w serwisie dokonujemy pod adresem [https://app.infano.net/register](
 
 ### Hasło
 
-Hasło powinno składać się z ... _TODO: dodać parametry hasła_
+Hasło powinno składać się z conajmniej 8 znaków i powinno zawierać następujące rodzaje znaków:
+
+- duża litera
+- mała litera
+- cyfra
 
 
 
