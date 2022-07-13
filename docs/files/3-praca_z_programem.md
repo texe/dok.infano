@@ -58,3 +58,10 @@ W celu dokonania edycji grupy, np. zmiany jej nazwy, opisu lub statusu aktywnoś
 
 Otworzy nam się formularz edycji grupy, analogiczny jak w przypadku Dodawania grupy. Po wprowadzeniu ewentualnych zmian można je zapisać klikając przycisk `Zapisz`.
 
+
+
+### Usuwanie grupy
+
+W celu usunięcia grupy należy przejść do zakładki `Operacje`, a następnie kliknąć przycisk `Usuń`.
+
+!> **UWAGA!!! Usunięcie grupy jest operacją nieodwracalną!** Grupy nie można usunąć jeśli są do niej przypisani uczniowie.
