@@ -1,6 +1,6 @@
 # Pierwsze kroki
 
-## Uzupełnienie profilu firmy
+## Profil firmy
 
 Po poprawnym zalogowaniu się do aplikacji należy uzupełnić profil firmy. Można tego dokonać klikając w prawym górnym rogu na nazwie użytkownika i wybierając pozycję `Moja firma`.
 
@@ -38,7 +38,7 @@ Do formularza edycji danych firmy można również przejść bezpośrednio z gł
 
 
 
-## Uzupełnienie profilu użytkownika
+## Profil użytkownika
 
 W celu uzupełnienia profilu użytkownika należy kliknąć na nazwę użytkownika znajdującą się w prawym górnym rogu i wybrać opcję `Mój profil`
 
