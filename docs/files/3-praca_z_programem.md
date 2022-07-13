@@ -32,7 +32,7 @@ Formularz, który się wyświetli zawiera następujące pola:
 
 
 
-![Grupy - dodaj](../assets/img/3/3-04-edycja_grupy.png)
+![Grupy - dodawanie](../assets/img/3/3-04-edycja_grupy.png)
 
 Po wypełnieniu formularza, klikamy przycisk `Zapisz`, następuje zapisanie informacji o grupie do bazy danych. Po ponownym Kliknięciu w przycisk `Grupy` w głównym menu, nowo dodana grupa będzie widoczna:
 
@@ -44,7 +44,7 @@ Po wypełnieniu formularza, klikamy przycisk `Zapisz`, następuje zapisanie info
 
 W celu wyświetlenia szczegółów grupy należy kliknąć w nazwę konkretnej grupy na liście grup.
 
-![Grupy - dodaj](../assets/img/3/3-06-lista_grup.png)
+![Grupy - szczegóły](../assets/img/3/3-06-lista_grup.png)
 
 Wyświetli nam się informacja o grupie, tj. jej nazwa, opis oraz status (aktywna czy nie). 
 
@@ -54,7 +54,7 @@ Wyświetli nam się informacja o grupie, tj. jej nazwa, opis oraz status (aktywn
 
 W celu dokonania edycji grupy, np. zmiany jej nazwy, opisu lub statusu aktywności, należy przejść do zakładki `Operacje`, a następnie kliknąć przycisk `Edytuj`:
 
-![Grupy - dodaj](../assets/img/3/3-07-operacje_grupy.png)
+![Grupy - edytuj](../assets/img/3/3-07-operacje_grupy.png)
 
 Otworzy nam się formularz edycji grupy, analogiczny jak w przypadku Dodawania grupy. Po wprowadzeniu ewentualnych zmian można je zapisać klikając przycisk `Zapisz`.
 
