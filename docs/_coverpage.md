@@ -7,7 +7,7 @@
 
 <!-- TODO: Update to match your project's benefits/features. Git emojis work great here. -->
 
-[Przejdź do Infano](https://infano.net) <!-- TODO: Remove on your copy of this template.-->
+[Przejdź do Infano](https://app.infano.net) <!-- TODO: Remove on your copy of this template.-->
 [Dokumentacja](#start) <!-- TODO: Use ID of your homepage heading -->
 
 <!-- TODO: Set your background color or image. -->
