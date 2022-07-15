@@ -274,4 +274,51 @@ W tym miejscu możemy dodać nową wartość (np. podnosimy wysokość czesnego 
 
 Rozwiązanie to pozwala na zmianę wartości abonamentu w dowolnym momencie.
 
->  **Przykład:** Mamy abonament Czesne podstawowe z przypisaną wartością 500 zł od 1-go stycznia 2022. Od 1-go września 2022 chcemy zwiększyć wysokość czesnego. Dodajemy nową wartość 600 zł i datę rozpoczęcia 1-09-2022.  System od stycznia do sierpnia włącznie naliczy 500 zł, a od września zacznie naliczać 600 zł.
+>  **Przykład:** Mamy abonament "Czesne podstawowe" z przypisaną wartością 500 zł od 1-go stycznia 2022. Chcemy zwiększyć wysokość czesnego od 1-go września 2022. Dodajemy nową wartość 600 zł i datę rozpoczęcia 1 września 2022.  System od stycznia do sierpnia włącznie naliczy 500 zł, a od września zacznie naliczać 600 zł.
+
+
+
+### Przypisanie abonamentu do ucznia
+
+Aby przypisać abonament uczniowi, należy:
+
+1. wyświetlić listę uczniów  (główne menu →`Uczniowie`) :
+
+2. kliknąć przycisk `Abonamenty` przy konkretnej osobie:
+
+![Uczniowie - lista](../assets/img/3/3-25-lista_uczniow.png)
+
+3. wyświetli się lista abonamentów przypisanych uczniowi; w przypadku nowego ucznia, lista będzie pusta. W tym miejscu należy kliknąć przycisk `Dodaj nowy`
+
+![Przypisanie abonamentu uczniowi](../assets/img/3/3-26-nowy_abo.png)
+
+4. wyświetli się formularz przypisania wcześniej utworzonego abonamentu uczniowi:
+
+   ![Przypisanie abonamentu uczniowi](../assets/img/3/3-27-abo_formularz.png)
+
+Z rozwijanej listy należy wybrać **właściwy abonament**, który chcemy przypisać uczniowi oraz **datę** od której abonament ma być uczniowi naliczany.
+
+> **Przykład:** Jest <u>czerwiec 2022</u> roku i mamy nowych uczniów zapisanych do placówki <u>od września 2022</u> roku. Przygotowujemy sobie kartotekę uczniów  wcześniej, przypisujemy nowym uczniom abonamenty i określamy datę rozpoczęcia na 1 września 2022. Podczas dokonywania naliczeń w czerwcu nowym uczniom nie zostanie naliczony ten abonament, gdyż jego naliczanie rozpocznie się dopiero od <u>września 2022</u>.
+
+Po wypełnieniu formularza klikamy przycisk `Zapisz`. Abonament został przypisany uczniowi. 
+
+
+
+### Wyświetlanie abonamentów ucznia
+
+Aby wyświetlić abonamenty przypisane uczniowi, należy wyświetlić listę uczniów  (główne menu →`Uczniowie`) , a następnie kliknąć przycisk `Abonamenty` przy konkretnej osobie:
+
+![Uczniowie - lista](../assets/img/3/3-25-lista_uczniow.png)
+
+Wyświetlą nam się przypisane uczniowi wszystkie abonamenty wraz z datami rozpoczęcia i zakończenia:
+
+![Uczniowie - lista](../assets/img/3/3-28-lista_abo_ucznia.png)
+
+
+
+### Usuwanie abonamentów ucznia
+
+W celu usunięcia abonamentu uczniowi należy wyświetlić listę abonamentów przypisanych temu uczniowi i kliknąć przycisk `Kasuj`.
+
+!> **Uwaga!** Usunięcie abonamentu oznacza, że ten abonament nie zostanie naliczony uczniowi. Jeśli jednak został naliczony w poprzednich miesiącach i zostanie w tym miejscu usunięty (a więc odłączony od ucznia) **dokonane wcześniej naliczenia pozostaną**!
+**Przykład:** W maju 2022 roku przypisano uczniowi abonament i dokonano jego naliczenia. W czerwcu zorientowano się, że abonament był przypisany uczniowi przez pomyłkę i go usunięto. Naliczona należność za maj pozostaje na saldzie ucznia. Aby ją usunąć należy ponownie przeliczyć maj.
