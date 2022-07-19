@@ -390,7 +390,7 @@ W celu naliczenia opłat dla całej grupy, należy kliknąć przycisk `Grupy` w 
 
 
 
-![Grupy - operacje](../assets/img/3/3-33-grupy-operacje.png)
+![Grupy - operacje](../assets/img/3/3-33-grupy-operacje.png[data-zoomable])
 
 
 
