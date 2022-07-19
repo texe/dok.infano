@@ -474,6 +474,13 @@ Zatwierdzamy przyciskiem `Zapisz`.
 
 Ostatnią rzeczą jest przypisanie abonamentu uczniowi, analogicznie jak w przypadku czesnego, klikając kolejno: `Uczniowie` → `Abonamenty` (przy konkretnym uczniu) → `Dodaj nowy`. Następnie należy wybrać z listy rozwijanej abonament, który utworzyliśmy i uzupełnić datę, od której przypisujemy go uczniowi.
 
+#### Naliczanie wyżywienia miesięcznego
+
+Naliczenia wartości za wyżywienie miesięczne można dokonać:
+
+- indywidualnie dla ucznia: `Uczniowie` → kliknąć na nazwisku ucznia → zakładka `Operacje` → przycisk `Należności` → przycisk `Przelicz wszystko`
+- grupowo: `Grupy` → kliknąć na nazwie grupy → zakładka `Operacje` → przycisk `Nalicz`
+
 ### Za dzień
 
 Wyżywienie może być także naliczane stałą kwotą za dzień.
@@ -502,7 +509,7 @@ Zatwierdzamy przyciskiem `Zapisz`.
 
 
 
-#### Naliczanie żywności za dzień
+#### Przypisanie żywności za dzień
 
 Aby naliczyć żywność za dzień, w którym uczeń był obecny, należy przejść do menu Grup i przy żądanej grupie kliknąć przycisk `Wyżywienie`:
 
@@ -522,7 +529,19 @@ Otworzy się okno z kalendarzem, w którym możemy przypisać posiłek w konkret
 
 Należy przy danym uczniu i dacie wybrać z listy rozwijanej posiłek, który w rzeczywistości jest nazwą wcześniej utworzonego abonamentu. Po kliknięciu przycisku `Zapisz` dane zostają zapisane w bazie danych. Możemy przesuwać się w kalendarzu do przodu i do tyłu posługując się przyciskami `Wstecz` oraz `Dalej` lub opcjonalnie przejść do dowolnego okresu wybierając datę z kalendarza.
 
-!> UWAGA! Aby opłaty za poszczególne posiłki zostały naliczone uczniom, należy je naliczyć indywidualnie konkretnym uczniom lub dokonać naliczenia dla całej grupy.
+!> **UWAGA!** Aby opłaty za poszczególne posiłki zostały naliczone uczniom, należy je naliczyć indywidualnie konkretnym uczniom lub dokonać naliczenia dla całej grupy (patrz niżej).
+
+
+
+#### Naliczanie wyżywienia za dzień
+
+Naliczenia wartości za wyżywienie miesięczne można dokonać:
+
+- indywidualnie dla ucznia: `Uczniowie` → kliknąć na nazwisku ucznia → zakładka `Operacje` → przycisk `Należności` → przycisk `Przelicz wszystko`
+
+- grupowo: `Grupy` → kliknąć na nazwie grupy → zakładka `Operacje` → przycisk `Nalicz`
+
+  
 
 ### Zależne od posiłku
 
@@ -548,4 +567,14 @@ Ostatnim krokiem jest wybranie odpowiednich opcji przy danym uczniu:
 
 
 
-!> UWAGA! Aby opłaty za poszczególne posiłki zostały naliczone uczniom, należy je naliczyć indywidualnie konkretnym uczniom lub dokonać naliczenia dla całej grupy.
+!> **UWAGA!** Należy pamiętać, że na powyższym ekranie następuje przypisanie uczniowi danego posiłku w konkretnych dniach. Naliczenia dokonujemy indywidualnie dla ucznia albo grupowo dla całej grupy (patrz niżej).
+
+
+
+#### Naliczanie wyżywienia zależnego od posiłku
+
+Naliczenia wartości za wyżywienie miesięczne można dokonać:
+
+- indywidualnie dla ucznia: `Uczniowie` → kliknąć na nazwisku ucznia → zakładka `Operacje` → przycisk `Należności` → przycisk `Przelicz wszystko`
+- grupowo: `Grupy` → kliknąć na nazwie grupy → zakładka `Operacje` → przycisk `Nalicz`
+
