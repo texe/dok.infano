@@ -390,7 +390,7 @@ W celu naliczenia opłat dla całej grupy, należy kliknąć przycisk `Grupy` w 
 
 
 
-![Grupy - operacje](../assets/img/3/3-33-grupy-operacje.png[data-zoomable])
+![Grupy - operacje](../assets/img/3/3-33-grupy_operacje.png)
 
 
 
@@ -398,10 +398,51 @@ Następnie należy wybrać miesiąc, za który chcemy dokonać naliczeń i klikn
 
 
 
-![Grupy - naliczanie opłat](../assets/img/3/3-34-naliczenie-grupowe.png)
+![Grupy - naliczanie opłat](../assets/img/3/3-34-naliczenie_grupowe.png)
 
 !> **UWAGA!** W przypadku gdy dokonamy naliczenia kolejny raz w danym miesiącu, system usunie poprzednie wartości naliczeń i naliczy je ponownie, zgodnie z przypisanymi abonamentami i ich wartościami. Przy poprawnej konfiguracji abonamentów, nie ma możliwości, aby opłata została naliczona powtórnie.
 
 > **Przykład 1:** dokonano naliczeń dla całej grupy za miesiąc lipiec 2022. Następnie przypisano nowego ucznia do tej grupy. <u>System nie naliczy automatycznie nowemu uczniowi należności!</u> Należy ponownie dokonać naliczenia opłat dla grupy.
 >
 > **Przykład 2:** dokonano naliczeń dla całej grupy za miesiąc lipiec 2022. Następnie zorientowano się, że wartość abonamentu jest błędna. Należy skorygować wartość abonamentu i dokonać ponownego naliczenia opłat dla grupy. Wszystkie wpisy z błędną wysokością czesnego zostaną usunięte i zastąpione nowymi wartościami.
+
+
+
+## Wyżywienie
+
+Wyżywienie w programie może być naliczane na 3 sposoby:
+
+- miesięcznie - stała kwota za dany miesiąc, która może być inna w każdym miesiącu
+- za dzień - stała kwota za dzień, w którym uczeń zjadł posiłek
+- zależnie od wybranego posiłku - przypadek, w którym opłata może być każdego dnia inna w zależności jakiego wyboru dokonał uczeń, np. jednego dnia zupa za 5 zł, drugiego zupa + II danie 15 zł, trzeciego dnia tylko II danie za 10zł.
+
+### Miesięczne
+
+Ustawienie wyżywienia naliczanego jeden raz w danym miesiącu jest bardzo podobne jak w przypadku standardowego abonamentu za czesne. Klikamy w menu głównym w przycisk `Abonamenty` → `Dodaj nowy abonament`i wypełniamy formularz, zaznaczając `Typ` jako `Wyżywienie`, a `Rodzaj płatności` jako `Miesięczna`:
+
+![Abonament - nowy](../assets/img/3/3-35-wyzywienie_miesieczne_abo.png)
+
+
+
+Należy pamiętać, aby pole `Aktywny` było zaznaczone. Zatwierdzamy przyciskiem `Zapisz` i przechodzimy na listę abonamentów, gdzie powinien znajdować się już abonament z typem `Wyżywienie`:
+
+
+
+![Abonamenty - lista](../assets/img/3/3-36-lista_abo_wyzywienie.png)
+
+W kolejnym kroku należy nadać wartość temu abonamentowi. Dokonujemy tego tak samo jak w przypadku czesnego. Klikamy kolejno `Sprawdź` → `Dodaj nową wartość`, następnie wpisujemy kwotę oraz datę rozpoczęcia okresu od którego abonament obowiązuje, np.:
+
+
+
+![Abonamenty - lista](../assets/img/3/3-37-wyzywienie_wartosc.png)
+
+
+
+Zatwierdzamy przyciskiem `Zapisz`. 
+
+Ostatnią rzeczą jest przypisanie abonamentu uczniowi, analogicznie jak w przypadku czesnego, klikając kolejno: `Uczniowie` → `Abonamenty` (przy konkretnym uczniu) → `Dodaj nowy`. Następnie należy wybrać z listy rozwijanej abonament, który utworzyliśmy i uzupełnić datę, od której przypisujemy go uczniowi.
+
+### Za dzień
+
+### Zależne od posiłku
+
