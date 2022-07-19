@@ -551,7 +551,13 @@ Jeśli chcemy uzależnić wysokość opłaty od posiłku, można tego dokonać t
 - II danie w cenie 15 zł
 - I i II danie w cenie 20 zł
 
-Te abonamenty wraz z wartościami tworzymy analogicznie jak w przypadku naliczania żywności za dzień (patrz wyżej). Następnie należy przejść do menu Grup i przy żądanej grupie kliknąć przycisk `Wyżywienie`:
+Te abonamenty wraz z wartościami tworzymy analogicznie jak w przypadku naliczania żywności za dzień (patrz wyżej). 
+
+
+
+#### Przypisanie żywności zależnej od posiłku
+
+Aby przypisać dany posiłek konkretnemu uczniowi należy przejść do menu Grup i przy żądanej grupie kliknąć przycisk `Wyżywienie`:
 
 
 
