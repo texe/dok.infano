@@ -162,6 +162,38 @@ W celu usunięcia ucznia należy przejść do zakładki `Operacje`, a następnie
 
 
 
+### Należności ucznia
+
+W celu sprawdzenia stanu należności ucznia należy kliknąć w głównym menu przycisk `Uczniowie`, a następnie `Należności`:
+
+
+
+![Lista uczniów](../assets/img/3/3-43-lista_uczniow_naleznosci.png)
+
+
+
+Wyświetli nam się stan należności ucznia:
+
+![Uczeń - należności](../assets/img/3/3-44-uczen_naleznosci.png)
+
+
+
+Okno zawiera wpisy dokonane w bieżącym miesiącu. W celu sprawdzenia innego miesiąca należy wybrać dowolną datę z kalendarza i kliknąć przycisk `Wczytaj`. 
+
+!> UWAGA! Wybranie konkretnego dnia nie ma znaczenia w tym raporcie. Np. wybierając 2-go maja 2022 wczytamy wszystkie wpisy z maja 2022.
+
+W celu sprawdzenia wpisów z całego roku, należy kliknąć przycisk `Zestawienie roczne`, otworzy się okno zawierające podsumowanie z całego roku:
+
+
+
+![Uczeń - należności - zestawienie roczne](../assets/img/3/3-45-zestawienie_roczne.png)
+
+
+
+W celu szybkiego przejścia do danego miesiąca, klikamy przycisk `Szczegóły` przy interesującym nas miesiącu.
+
+
+
 ## Abonamenty
 
 Aby program mógł poprawnie dokonywać naliczeń należy skonfigurować odpowiednio abonamenty. W celu wyświetlenia listy abonamentów, należy kliknąć, w głównym menu po lewej stronie ekranu, przycisk `Abonamenty`:
