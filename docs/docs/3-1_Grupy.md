@@ -63,3 +63,24 @@ Otworzy nam się formularz edycji grupy, analogiczny jak w przypadku Dodawania g
 W celu usunięcia grupy należy przejść do zakładki `Operacje`, a następnie kliknąć przycisk `Usuń`.
 
 !> **UWAGA!!! Usunięcie grupy jest operacją nieodwracalną!** Grupy nie można usunąć jeśli są do niej przypisani uczniowie.
+
+
+
+## Obecności
+
+Dla każdej grupy możemy prowadzić ewidencję obecności. W tym celu należy przejść na listę grup i kliknąć przycisk `Obecności` przy interesującej nas grupie.
+
+
+
+![Lista grup - obecności](../assets/img/3/3-55-grupy-obecnosci.png)
+
+
+
+Wyświetli się kalendarz z listą uczniów i polami do zaznaczenie obecności. Po zaznaczeniu lub odznaczeniu konkretnego pola klikamy przycisk `Zapisz`. Po kalendarzu poruszamy się korzystając z przycisków `Wstecz` oraz `Dalej`. W celu szybkiego przejścia do innego miesiąca lub roku korzystamy z pola kalendarza na środku ekranu.
+
+
+
+![Lista grup - obecności -kalendarz](../assets/img/3/3-56-grupy-obecnosci-kalendarz.png)
+
+
+

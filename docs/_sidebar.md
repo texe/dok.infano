@@ -10,6 +10,7 @@
   - [Wyżywienie](docs/3-4_Wyzywienie.md "dok.Infano.net | Instrukcja » Wyżywienie")
   - [Naliczanie opłat](docs/3-5_Naliczanie.md "dok.Infano.net | Instrukcja » Naliczanie opłat")
   - [Przyjmowanie wpłat](docs/3-6_Wplaty.md "dok.Infano.net | Instrukcja » Przyjmowanie wpłat")
+  - [Zajęcia dodatkowe](docs/3-7_Zajecia_dodatkowe.md "dok.Infano.net | Instrukcja » Zajęcia dodatkowe")
 - **Przykłady**
   
 
