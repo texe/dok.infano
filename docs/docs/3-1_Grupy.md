@@ -84,3 +84,4 @@ Wyświetli się kalendarz z listą uczniów i polami do zaznaczenie obecności. 
 
 
 
+!> **UWAGA!** Zaznaczenie obecności na tym formularzu nie wpływa w żaden sposób na naliczenie lub nienaliczenie jakiejkolwiek opłaty! Formularz ma charakter wyłącznie informacyjny.
