@@ -8,7 +8,7 @@ W celu przyjęcia wpłaty od ucznia należy wyświetlić listę uczniów i przy 
 
 
 
-Następnie należy kliknąć przycisk `Dodaj niową wpłatę`:
+Następnie należy kliknąć przycisk `Dodaj nową wpłatę`:
 
 
 
@@ -44,7 +44,7 @@ Po wypełnieniu formularza, klikamy przycisk `Zapisz` - wpłata zostaje dodana d
 
 
 
-## Przeglądanie wpłat ucznia
+## Przeglądanie wpłat
 
 W celu przeglądania wpłat ucznia należy wyświetlić listę uczniów i przy nazwisku konkretnego ucznia kliknąć przycisk `Wpłaty`:
 
@@ -60,4 +60,23 @@ Wyświetli się szczegółowa lista wpłat danego ucznia:
 
 
 
-## Edycja wpłaty ucznia
+## Edycja wpłaty
+
+W sytuacji gdy popełnimy pomyłkę podczas wpłaty, np. wpiszemy złą kwotę, datę lub okres, którego wpłata dotyczy, możemy poprawić wpłatę. W tym celu na liście wpłat ucznia klikamy przycisk `Edytuj`, przy pozycji, którą chcemy skorygować:
+
+
+
+![Lista wpłat ucznia](../assets/img/3/3-50-lista_wplat2.png)
+
+
+
+Wyświetli nam się formularz identyczny jak w przypadku tworzenia nowej wpłaty. Formularz będzie zawierał wszystkie dane wpłaty wcześniej zapisane. Po dokonaniu poprawek klikamy przycisk `Zapisz`.
+
+
+
+## Usuwanie wpłaty
+
+W przypadku gdy chcemy całkowicie usunąć wpłatę ucznia (np. dodaną przez pomyłkę nie temu uczniowi), na liście wpłat należy kliknąć przycisk `Kasuj`. Wpłata zostanie usunięta.
+
+
+
