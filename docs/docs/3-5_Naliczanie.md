@@ -78,7 +78,7 @@ Następnie należy kliknąć przycisk `Dodaj nową wpłatę`:
 
 
 
-![Nowa wpłata](/home/texe/git/dok.infano/docs/assets/img/3/3-47-dodaj_nowa_wplate.png)
+![Nowa wpłata](../assets/img/3/3-47-dodaj_nowa_wplate.png)
 
 
 
@@ -102,7 +102,7 @@ Otworzy się okno z formularzem dodania wpłaty ucznia. Formularz zawiera nastę
 
 
 
-![Nowa wpłata ucznia - formularz](/home/texe/git/dok.infano/docs/assets/img/3/3-51-nowe_wydarzenie.png)
+![Nowa wpłata ucznia - formularz](../assets/img/3/3-51-nowe_wydarzenie.png)
 
 
 
@@ -118,7 +118,7 @@ Po wypełnieniu formularza, klikamy przycisk `Zapisz` - należność zostaje dod
 
 
 
-![Lista należności ucznia](/home/texe/git/dok.infano/docs/assets/img/3/3-52-naleznosci_lista.png)
+![Lista należności ucznia](../assets/img/3/3-52-naleznosci_lista.png)
 
 
 
@@ -128,7 +128,7 @@ Aplikacja Infano posiada mechanizm ułatwiający dokonywanie naliczeń za wydarz
 
 
 
-![Grupy - Operacje](/home/texe/git/dok.infano/docs/assets/img/3/3-53-grupy_operacje_platnosc.png)
+![Grupy - Operacje](../assets/img/3/3-53-grupy_operacje_platnosc.png)
 
 
 
@@ -140,7 +140,7 @@ Otworzy się okno formularza pozwalającego naliczyć wydarzenie dla całej grup
 
 
 
-![Grupy - Wydarzenie](/home/texe/git/dok.infano/docs/assets/img/3/3-54-wydarzenie_dla_grupy.png)
+![Grupy - Wydarzenie](../assets/img/3/3-54-wydarzenie_dla_grupy.png)
 
 
 
