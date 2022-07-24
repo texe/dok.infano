@@ -1,8 +1,8 @@
 - **Wstęp**
   - [Opis programu](/#start)
 - **Szybki start**
-  - [Tworzenie konta](docs/1-tworzenie_konta.md "dok.Infano.net | Tworzenie konta")
-  - [Pierwsze kroki](docs/2-pierwsze_kroki.md "dok.Infano.net | Pierwsze kroki")
+  - [Tworzenie konta](docs/1_Tworzenie_konta.md "dok.Infano.net | Tworzenie konta")
+  - [Pierwsze kroki](docs/2_Pierwsze_kroki.md "dok.Infano.net | Pierwsze kroki")
   - **Instrukcja obsługi**
   - [Grupy](docs/3-1_Grupy.md "dok.Infano.net | Instrukcja » Grupy")
   - [Uczniowie](docs/3-2_Uczniowie.md "dok.Infano.net | Instrukcja » Uczniowie")
